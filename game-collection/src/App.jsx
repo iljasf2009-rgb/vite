@@ -13,7 +13,7 @@ function App() {
  
  <p>Klas: 25B</p> 
  </> 
- ); 
+ );  
 } 
  
 export default App;
