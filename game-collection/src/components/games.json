@@ -77,7 +77,8 @@
     "platform": "PlayStation 5",
     "genre": "RPG",
     "rating": 9.7,
-    "year": 2022
+    "year": 2022,
+    "image": "eldenring.jpg"
   },
   {
     "id": 11,
